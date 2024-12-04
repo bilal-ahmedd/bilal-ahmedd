@@ -1,5 +1,5 @@
 # Bilal Ahmed💫
-Web Developer | WordPress | Full-Stack Solutions
+PHP | ReactJS | WordPress | Full-Stack Solutions
 
 With over 4 years of experience in web development, I specialize in transforming websites and online stores into high-performing, engaging platforms. Whether it's an eCommerce site or a business website, I leverage the latest technologies to deliver seamless, user-friendly designs that captivate audiences and drive results.
 
